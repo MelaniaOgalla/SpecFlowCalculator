@@ -16,7 +16,7 @@ A test project using the NUnit framework containing 5 simple example tests in [C
 
 ## Notes
 
-Test runing on firefox browser (v96.0.3x64)
+Test running on firefox browser (v96.0.3x64)
 
 ### Version
 
